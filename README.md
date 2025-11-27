@@ -4,6 +4,31 @@ A complete hands-on lab setup for practicing OWASP Web Application Security Top 
 🧩 Introduction
 This project provides a safe and isolated environment to practice real-world web security attacks following the OWASP Web Top 10 list.
 Using Docker, you can run vulnerable applications like DVWA and bWAPP without affecting your main system.
+- Why Practice OWASP Top 10 ?
+The OWASP Top 10 is the globally recognized standard for the most critical web application security risks.
+Practicing these vulnerabilities helps you:
+1. Understand how real-world attacks happen
+2. Learn the impact of insecure coding practices
+3. Gain hands-on skills in exploitation & mitigation
+
+- What are DVWA & bWAPP ?
+* DVWA (Damn Vulnerable Web Application) :
+DVWA is a deliberately insecure web application created for:
+1. Practicing OWASP Top 10 vulnerabilities
+2. Learning security tools like Burp Suite, SQLmap, Hydra, Nikto, etc.
+3. Testing different security levels: Low, Medium, High, Impossible
+4. Understanding secure coding vs insecure coding side-by-side
+
+* bWAPP (Buggy Web Application) :
+bWAPP is another intentionally vulnerable application offering:
+1. 100+ vulnerabilities, including OWASP Top 10, mobile issues, server-side bugs
+2. Practice for beginner → advanced exploitation
+3. Integration with tools like Burp Suite, ZAP, SQLmap, Metasploit, etc.
+4. A broader attack surface than DVWA
+
+- Why Docker?
+
+--------------------------------------------------------------------------------------------
 
 ⭐ Why This Lab?
 - 100% safe environment
