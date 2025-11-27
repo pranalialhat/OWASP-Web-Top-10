@@ -9,11 +9,11 @@ Using Docker, you can run vulnerable applications like DVWA and bWAPP without af
 - 100% safe environment
 - Perfect for beginners & security learners
 - Learn common vulnerabilities practically
-- Does not require VirtualBox / VMware
 - Easy to run, reset, and destroy
 
 🛠 Tools & Technologies
 - Kali Linux
+- VirtualBox/VMware
 - Docker
 - DVWA (Damn Vulnerable Web App)
 - bWAPP (Buggy Web Application)
